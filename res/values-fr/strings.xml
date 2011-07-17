@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Bonjour le monde, BonjourAndroidActivité!</string>
+    <string name="app_name">BonjourAndroid</string>
+    <string name="button1">Cliquez Moi!</string>
+    <string name="dialogtitle">Titre de dialogue</string>
+    <string name="alert_dialog_ok">D\'accord</string>
+    <string name="alert_dialog_cancel">Annuler</string>
+</resources>
